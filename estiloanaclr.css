@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(241, 155, 249);
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: rgb(107, 49, 104);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+p{
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: rgb(107, 49, 104);
+}
+h1{
+    text-align: center;
+    font-family: Verdana;
+    font-size:40px;
+    color: rgb(107, 49, 104);
+}
+
+img{
+   width: 500px;
+   height: 350px;
+}

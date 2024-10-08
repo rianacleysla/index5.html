@@ -1,0 +1,40 @@
+body{
+    background-color: #00a8ad;
+    text-align: center;
+}
+
+h1{
+    color: #ffffff;
+    font-family: Verdana;
+    font-size: 45px;
+}
+p{
+    font-family: Courier New;
+    font-size: 22px;
+    color: #ffffff;
+}
+
+table{
+    margin: auto;
+    text-align: center;
+    color: #00a8ad;
+    width: 60%;
+    border-collapse: collapse;
+}
+
+td{
+    border: 2px solid #ffffff;
+    padding: 8px;
+    text-align: left;
+    color: #ffffff;
+}
+th{
+    border: 1px solid #ffffff;
+    padding: 8px;
+    text-align: left;
+    background-color: whitesmoke;
+}
+
+a{
+    color:#ffffff;
+}

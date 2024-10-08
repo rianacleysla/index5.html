@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(125, 200, 125);
+    text-align: center;
+}
+
+h1{
+    color: rgb(60, 111, 60);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    text-decoration: underline double;
+}
+
+h2{
+    color: rgb(60, 111, 60);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+p{
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: rgb(57, 90, 57);
+}
+
+ul{
+    list-style-type: circle rgb(48, 60, 48);
+    text-align: justify;
+    color:  rgb(57, 90, 57);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+table, tr, th, td{
+    border: 2px solid;
+    background-color: rgb(125, 200, 125);
+    padding: 5px;
+    border-color: rgba(61, 118, 61, 0.995);
+    border-style: groove;
+    text-align: center;
+}
+
+th, td{
+    text-align: left;
+    font-size: medium;
+    color: rgb(9, 57, 9);
+}
+
+td{
+    color: rgb(57, 90, 57);
+}
+
+th{
+    background-color: rgb(83, 121, 83);
+}
+
+.mytable{
+    margin: auto;
+}
